@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SpyCoder77
 - 👀 I’m interested in Coding and Minecraft Modding
-- 🌱 I’m currently learning HTML, CSS, JS, and a little bit of swift and node
+- 🌱 I’m currently learning HTML, CSS, and JS
